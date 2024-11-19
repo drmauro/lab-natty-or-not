@@ -19,7 +19,6 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
 ## **Estatística com Python: Explorando Dados de Forma Inteligente e Visual**
 
 ## **📒 Descrição**  
@@ -57,7 +56,6 @@ Este e-book foi desenvolvido para introduzir os fundamentos da Estatística util
 
 ## **💭 Reflexão (Opcional)**  
 Criar este e-book foi uma experiência desafiadora e enriquecedora. O maior desafio foi equilibrar a simplicidade para iniciantes com a profundidade técnica. A automação com IA e ferramentas como `numpy` e `matplotlib` mostrou como a geração de conteúdo pode ser rápida e eficiente, mas o toque humano para explicar os conceitos foi essencial para torná-lo realmente didático. Este projeto demonstra como tecnologia e criatividade podem transformar o aprendizado em algo acessível e impactante.
-```
 
 
 ### Exemplos e Insigths

@@ -53,7 +53,7 @@ Este e-book foi desenvolvido para introduzir os fundamentos da Estatística util
   - Scripts Python bem documentados.
 - **Conteúdo Educacional**: Um guia útil para iniciantes em Estatística e Python, cobrindo conceitos fundamentais com aplicações práticas.
 
-Arquivo da Apostila:
+Arquivo do e-book produzido pelo ChatGPT:
 [Estatistica_Com_Python_Final.pdf](https://github.com/user-attachments/files/17818143/Estatistica_Com_Python_Final.pdf)
 
 

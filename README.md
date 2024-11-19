@@ -53,6 +53,9 @@ Este e-book foi desenvolvido para introduzir os fundamentos da Estatística util
   - Scripts Python bem documentados.
 - **Conteúdo Educacional**: Um guia útil para iniciantes em Estatística e Python, cobrindo conceitos fundamentais com aplicações práticas.
 
+Arquivo da Apostila:
+[Estatistica_Com_Python_Final.pdf](https://github.com/user-attachments/files/17818143/Estatistica_Com_Python_Final.pdf)
+
 
 ## **💭 Reflexão (Opcional)**  
 Criar este e-book foi uma experiência desafiadora e enriquecedora. O maior desafio foi equilibrar a simplicidade para iniciantes com a profundidade técnica. A automação com IA e ferramentas como `numpy` e `matplotlib` mostrou como a geração de conteúdo pode ser rápida e eficiente, mas o toque humano para explicar os conceitos foi essencial para torná-lo realmente didático. Este projeto demonstra como tecnologia e criatividade podem transformar o aprendizado em algo acessível e impactante.
